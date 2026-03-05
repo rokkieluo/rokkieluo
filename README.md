@@ -1,4 +1,4 @@
-Hi! Here is rokkieluo:blush:
+Hi! Here is rokkieluo :blush:
 
 ![Metrics](/github-metrics.svg)
 
