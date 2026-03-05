@@ -9,4 +9,4 @@ My Tech Stack：
 ![Static Badge](https://img.shields.io/badge/rk3588-red)
 ![Static Badge](https://img.shields.io/badge/nvidia-green?logo=nvidia)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kervin.luo)](https://github.com/ryo-ma/github-profile-trophy)
+
