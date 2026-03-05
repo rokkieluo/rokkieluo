@@ -1,4 +1,5 @@
 Hi! Here is rokkieluo :blush:
+
 ![Metrics](/github-metrics.svg)
 
 My Tech Stack：
@@ -8,3 +9,4 @@ My Tech Stack：
 ![Static Badge](https://img.shields.io/badge/rk3588-red)
 ![Static Badge](https://img.shields.io/badge/nvidia-green?logo=nvidia)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rokkieluo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
