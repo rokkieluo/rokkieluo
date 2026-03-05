@@ -4,7 +4,7 @@ Hi! Here is rokkieluo :blush:
 
 My Tech Stack：
 ![Static Badge](https://img.shields.io/badge/c++-blue?logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker)
 ![Static Badge](https://img.shields.io/badge/rk3588-red)
 ![Static Badge](https://img.shields.io/badge/nvidia-green?logo=nvidia)
