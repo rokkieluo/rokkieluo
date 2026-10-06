@@ -11,4 +11,3 @@ My Tech Stack：
 ![Static Badge](https://img.shields.io/badge/rk3588-red)
 ![Static Badge](https://img.shields.io/badge/nvidia-green?logo=nvidia)
 
-![Metrics](/github-metrics.svg)
