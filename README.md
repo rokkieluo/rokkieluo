@@ -1,13 +1,17 @@
-Hi! Here is rokkieluo :blush:
+Hi! Here is rokkieluo 👋
 
 I'm currently pursuing a postgraduate degree at Chongqing University Of Posts And Telecommunications.
 
 Now I'm focusing on vison-tactile fusion for robotic arm object grasping. 
 
-My Tech Stack：
-![Static Badge](https://img.shields.io/badge/c++-blue?logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/Python-white?logo=python)
-![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker)
-![Static Badge](https://img.shields.io/badge/rk3588-red)
-![Static Badge](https://img.shields.io/badge/nvidia-green?logo=nvidia)
+**📖 Contribution**
 
+![](https://github-readme-stats.vercel.app/api?username=rokkieluo)
+
+**⚙️ Programming Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)
+
+**🛠️ Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,cmake,git,github,md)](https://skillicons.dev)
