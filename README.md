@@ -15,3 +15,7 @@ Now I'm focusing on vison-tactile fusion for robotic arm object grasping.
 **🛠️ Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,cmake,git,github,md)](https://skillicons.dev)
+
+**📫 How to reach me**  
+
+Email me at: <a href="m15983345918@163.com"> m15983345918@163.com </a>.  
